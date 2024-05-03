@@ -164,4 +164,7 @@ section .footer .row ul li a{
 
         
     }
+    section .footer{
+        width:none;
+    }
 }
